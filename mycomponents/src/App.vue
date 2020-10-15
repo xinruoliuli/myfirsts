@@ -7,8 +7,13 @@
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background: url('./assets/1602655822952.jpg') no-repeat;
+    background-size: 100% 100%;
     text-align: center;
     color: #2c3e50;
+    height: 100%;
+    width: 100%;
+    font-size: 0.14rem;
 }
 
 #nav {
