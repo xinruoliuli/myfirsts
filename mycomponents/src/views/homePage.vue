@@ -57,7 +57,7 @@ export default defineComponent({
 }
 .my_swiper p:first-child {
     height: 75%;
-    background: url('../assets/swiper.jpg') no-repeat;
+    background: url('../assets/image/swiper.jpg') no-repeat;
     background-size: 100% 100%;
     color: #fff;
     font-size: 0.3rem;
